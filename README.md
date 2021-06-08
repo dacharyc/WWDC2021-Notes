@@ -14,3 +14,4 @@ Monday, June 7, 2021
 Tuesday, June 8, 2021
 
 - [Meet DocC documentation in Xcode](meet-docc-documentation.md)
+- [Host and Automate Your DocC Documentation](host-and-automate-docc-documentation.md)
