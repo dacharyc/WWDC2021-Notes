@@ -1,5 +1,7 @@
 # WWDC2021
 
+Notes from attending WWDC 2021.
+
 Dates: June 7, 2021 to June 11, 2021
 
 Sessions attended:
