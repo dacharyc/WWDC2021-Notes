@@ -16,5 +16,11 @@ Tuesday, June 8, 2021
 - [Meet DocC documentation in Xcode](meet-docc-documentation.md)
 - [Host and Automate Your DocC Documentation](host-and-automate-docc-documentation.md)
 - [Meet async/await in Swift](meet-async-await.md)
+- [Protect mutable state with Swift actors](protect-mutable-state-with-actors.md)
+- [Explore structured concurrency in Swift](explore-structured-concurrency.md)
 
 - [Notes from Lounges](notes-from-lounges-06-08.md)
+
+Wednesday, June 9, 2021
+
+- []()
