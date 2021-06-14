@@ -30,7 +30,7 @@ Wednesday, June 9, 2021
 - [Swift concurrency: Update a sample app](swift-concurrency-update-sample-app.md)
 - [Elevate your DOcC documentation in Xcode](elevate-docc-documentation.md)
 - Discover concurrency in SwiftUI
-- Demystify SwiftUI
+- [Demystify SwiftUI](demystify-swiftui.md)
 
 Thursday, June 10, 2021
 - [Notes from Lounges](notes-fromm-lounges-06-10.md)
